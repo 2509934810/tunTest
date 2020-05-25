@@ -1,0 +1,24 @@
+- name: 'test-1'
+  url: 'http://test_www.lovehome.com/'
+  headers:
+    user-agent: 'test'
+  check:
+  - checktype: 'click'
+    checkbody:
+    - '#top > div.Loginmenu > ul > li:nth-child(2) > a'
+    timeout: 10
+  - checktype: 'input'
+    timeout: 10
+    checkbody:
+    - '#account'
+    - '1614010432'
+    - '#password'
+    - 'lei'
+  - checktype: 'click'
+    checkbody:
+    - '#confirmButton'
+    timeout: 10
+  - checktype: 'find'
+    checkbody:
+    - '#myInfo > a'
+    timeout: 10

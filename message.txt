@@ -1,0 +1,51 @@
+[qSkipTool]2020/05/16 09:24:37 Poll.go:32: job 数量: 1
+[qSkipTool]2020/05/16 09:24:48 validator.go:11: ------------------------------------------
+[qSkipTool]2020/05/16 09:24:48 validator.go:12: caseName =  test-1
+[qSkipTool]2020/05/16 09:24:48 validator.go:32: click-----#top > div.Loginmenu > ul > li:nth-child(2) > a
+[qSkipTool]2020/05/16 09:24:48 validator.go:38: find-----#top > div.Loginmenu > ul > li:nth-child(2) > a-----success
+[qSkipTool]2020/05/16 09:24:48 validator.go:46: input-----#top > div.Loginmenu > ul > li:nth-child(2) > a-----success
+[qSkipTool]2020/05/16 09:24:48 validator.go:54: input-----#account1614010432
+[qSkipTool]2020/05/16 09:24:48 validator.go:60: find-----#account-----success
+[qSkipTool]2020/05/16 09:24:48 validator.go:67: input-----1614010432-----success
+[qSkipTool]2020/05/16 09:24:48 validator.go:54: input-----#passwordlei
+[qSkipTool]2020/05/16 09:24:48 validator.go:60: find-----#password-----success
+[qSkipTool]2020/05/16 09:24:49 validator.go:67: input-----lei-----success
+[qSkipTool]2020/05/16 09:24:49 validator.go:32: click-----#confirmButton
+[qSkipTool]2020/05/16 09:24:49 validator.go:38: find-----#confirmButton-----success
+[qSkipTool]2020/05/16 09:24:49 validator.go:46: input-----#confirmButton-----success
+[qSkipTool]2020/05/16 09:24:49 validator.go:19: find----#myInfo > a
+[qSkipTool]2020/05/16 09:24:49 validator.go:22: find----#myInfo > a----error
+[qSkipTool]2020/05/18 02:16:56 Poll.go:32: job 数量: 1
+[qSkipTool]2020/05/18 02:16:58 validator.go:11: ------------------------------------------
+[qSkipTool]2020/05/18 02:16:58 validator.go:12: caseName =  test-1
+[qSkipTool]2020/05/18 02:16:58 validator.go:32: click-----#top > div.Loginmenu > ul > li:nth-child(2) > a
+[qSkipTool]2020/05/18 02:16:58 validator.go:38: find-----#top > div.Loginmenu > ul > li:nth-child(2) > a-----success
+[qSkipTool]2020/05/18 02:16:58 validator.go:46: input-----#top > div.Loginmenu > ul > li:nth-child(2) > a-----success
+[qSkipTool]2020/05/18 02:16:58 validator.go:54: input-----#account1614010432
+[qSkipTool]2020/05/18 02:16:58 validator.go:60: find-----#account-----success
+[qSkipTool]2020/05/18 02:16:58 validator.go:67: input-----1614010432-----success
+[qSkipTool]2020/05/18 02:16:58 validator.go:54: input-----#passwordlei
+[qSkipTool]2020/05/18 02:16:58 validator.go:60: find-----#password-----success
+[qSkipTool]2020/05/18 02:16:59 validator.go:67: input-----lei-----success
+[qSkipTool]2020/05/18 02:16:59 validator.go:32: click-----#confirmButton
+[qSkipTool]2020/05/18 02:16:59 validator.go:38: find-----#confirmButton-----success
+[qSkipTool]2020/05/18 02:16:59 validator.go:46: input-----#confirmButton-----success
+[qSkipTool]2020/05/18 02:16:59 validator.go:19: find----#myInfo > a
+[qSkipTool]2020/05/18 02:16:59 validator.go:22: find----#myInfo > a----error
+[qSkipTool]2020/05/18 03:59:11 Poll.go:32: job 数量: 1
+[qSkipTool]2020/05/18 03:59:14 validator.go:11: ------------------------------------------
+[qSkipTool]2020/05/18 03:59:14 validator.go:12: caseName =  test-1
+[qSkipTool]2020/05/18 03:59:14 validator.go:32: click-----#top > div.Loginmenu > ul > li:nth-child(2) > a
+[qSkipTool]2020/05/18 03:59:14 validator.go:38: find-----#top > div.Loginmenu > ul > li:nth-child(2) > a-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:46: input-----#top > div.Loginmenu > ul > li:nth-child(2) > a-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:54: input-----#account1614010432
+[qSkipTool]2020/05/18 03:59:14 validator.go:60: find-----#account-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:67: input-----1614010432-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:54: input-----#passwordlei
+[qSkipTool]2020/05/18 03:59:14 validator.go:60: find-----#password-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:67: input-----lei-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:32: click-----#confirmButton
+[qSkipTool]2020/05/18 03:59:14 validator.go:38: find-----#confirmButton-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:46: input-----#confirmButton-----success
+[qSkipTool]2020/05/18 03:59:14 validator.go:19: find----#myInfo > a
+[qSkipTool]2020/05/18 03:59:14 validator.go:22: find----#myInfo > a----error
